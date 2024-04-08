@@ -7,3 +7,8 @@ videos, subscribers,views, total videos and playlist id. I loaded all this data 
 ![videos per channel](https://github.com/Kamuthuj/Youtube-webscrapping/assets/121629618/a1be4d79-1c15-466f-8b33-75facaedb1d7)
 
 I also compared their subscription based on their channels to get insights on whose channel has a larger following.
+
+
+![Subscription per channel](https://github.com/Kamuthuj/Youtube-webscrapping/assets/121629618/c78d9a47-038b-4afa-b2e3-cc131f7d7a83)
+
+Quite evidently Marques Brownlee tops the charts among the three and is quite understood quite better than the reset making him one of the best teacher for self taught individuals.
